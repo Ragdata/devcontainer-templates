@@ -54,7 +54,7 @@
 
 If you like this repository, please give it a ⭐ (it really does help)
 
-<img alt="GitHub repository stars" src="https://img.shields.io/github/stars/ragdata/devcontainer-templates?style=social">
+<img alt="GitHub repository stars" src="https://img.shields.io/github/stars/ragdata/repo-manager?style=social">
 
 </h4>
 
@@ -77,12 +77,20 @@ If you like this repository, please give it a ⭐ (it really does help)
 
 [`^ Top`](#toc)
 
+## 🔐 [Security](#toc)
+
+While I always follow good security practices, 100% security can never be guaranteed in any software package.  `Ragdata's Devcontainer Templates` is provided AS IS, and without warranty.  You can find more details in the [LICENSE](LICENSE) file included with this repository.
+
+If you discover any issue regarding the security of this project, please disclose that information responsibly by sending a [security advisory][advisory].  **PLEASE DO NOT CREATE AN ISSUE OR DISCUSSION TOPIC.**  You can read more about this project's security policies [HERE][security]
+
+[`^ Top`](#toc)
+
 ## 💪 [Available Support](#toc)
 
 ### 🔸Project Resources
 
-- [Issues Register](https://github.com/ragdata/devcontainer-templates/issues)
-- [Project Site](https://ragdata.github.io/devcontainer-templates)
+- [Issues Register](https://github.com/ragdata/repo-manager/issues)
+- [Project Site](https://ragdata.github.io/repo-manager)
 
 ### 🔸Community Resources
 
@@ -92,19 +100,11 @@ If you like this repository, please give it a ⭐ (it really does help)
 - [Community Support Document](https://github.com/ragdata/.github/blob/master/.github/SUPPORT.md)
 - [Community Governance Policy](https://github.com/ragdata/.github/blob/master/.github/GOVERNANCE.md)
 - [Community Code of Conduct](https://github.com/ragdata/.github/blob/master/.github/CODE_OF_CONDUCT.md)
-- [Community Standards](https://github.com/ragdata/devcontainer-templates/community)
-- [Security Policy](https://github.com/ragdata/devcontainer-templates/security/policy)
-	- [Security Overview](https://github.com/ragdata/devcontainer-templates/security)
-	- [Security Advisories](https://github.com/ragdata/devcontainer-templates/security/advisories)
-	- [Dependabot Alerts](https://github.com/ragdata/devcontainer-templates/security/dependabot)
-
-[`^ Top`](#toc)
-
-## 🔐 [Security](#toc)
-
-While I always follow good security practices, 100% security can never be guaranteed in any software package.  The `Ragdata's Devcontainer Templates` is provided AS IS, and without warranty.  You can find more details in the [LICENSE](LICENSE) file included with this repository.
-
-If you discover any issue regarding the security of this project, please disclose that information responsibly by sending a [security advisory][advisory].  **PLEASE DO NOT CREATE AN ISSUE OR DISCUSSION TOPIC.**  You can read more about this project's security policies [HERE][security]
+- [Community Standards](https://github.com/ragdata/repo-manager/community)
+- [Security Policy](https://github.com/ragdata/repo-manager/security/policy)
+	- [Security Overview](https://github.com/ragdata/repo-manager/security)
+	- [Security Advisories](https://github.com/ragdata/repo-manager/security/advisories)
+	- [Dependabot Alerts](https://github.com/ragdata/repo-manager/security/dependabot)
 
 [`^ Top`](#toc)
 
